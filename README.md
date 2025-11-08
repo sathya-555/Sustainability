@@ -95,4 +95,11 @@ It supports the **UN Sustainable Development Goals (SDG 2 – Zero Hunger)** and
 ## 🚀 Future Improvements
 - Use **Transfer Learning** (MobileNet, EfficientNet) to improve accuracy.  
 - Develop a **Streamlit web UI** for easy image upload and detection.  
-- Deploy the model as a web or mobile app for farmers.  
+- Deploy the model as a web or mobile app for farmers.
+
+## 🗓️ Week 2 Progress
+- Implemented CNN model using TensorFlow/Keras
+- Trained sample dataset to demonstrate model working
+- Model achieved ~85–90% accuracy
+- Saved model as `plant_disease_model.h5`
+- Will replace sample data with PlantVillage dataset in Week 3
